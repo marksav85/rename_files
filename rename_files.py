@@ -8,4 +8,3 @@ def rename_files():
     print ("Current Working Directory is "+saved_path)
     
 
-
